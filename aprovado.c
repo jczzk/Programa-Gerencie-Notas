@@ -49,8 +49,9 @@ int main(){
         break;
     
     default:
-        printf("Opção Inválida!");
+        printf("Opção Inválida. Tente novamente!");
         break;
     }
+
 
 }
